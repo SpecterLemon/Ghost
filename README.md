@@ -1,1 +1,1 @@
-Im a ghost boo
+An advanced software to find hidden files
